@@ -67,5 +67,5 @@ const record = [
     return winningRecord ? winningRecord.year : undefined;
   }
   
-  console.log(superbowlWin(records));  // Output should be '2015'
+  console.log(superbowlWin(records));  
   
